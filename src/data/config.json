@@ -1,0 +1,20 @@
+{
+  "admin_pin": "1234",
+  "blackout": {
+    "Mon": [ { "start": 6, "end": 9 }, { "start": 18, "end": 20 } ],
+    "Tue": [],
+    "Wed": [ { "start": 0, "end": 24 } ],
+    "Thu": [],
+    "Fri": [ { "start": 22, "end": 23 } ],
+    "Sat": [],
+    "Sun": []
+  },
+  "doors": {
+    "front": {
+      "name": "Front Door"
+    },
+    "back": {
+      "name": "Back Door"
+    }
+  }
+}
